@@ -132,8 +132,8 @@
    */
   const glightbox = GLightbox({
     selector: '.glightbox',
-    touchNavigation: true,  // Permitir navegación táctil
-    loop: true,             // Permitir bucle en la galería
+    touchNavigation: true, // Permitir navegación táctil
+    // loop: true  Permitir bucle en la galería
   });
 
   /**
