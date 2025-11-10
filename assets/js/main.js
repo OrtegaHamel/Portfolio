@@ -131,7 +131,9 @@
    * Initiate glightbox
    */
   const glightbox = GLightbox({
-    selector: '.glightbox'
+    selector: '.glightbox',
+    touchNavigation: true,  // Permitir navegación táctil
+    loop: true,             // Permitir bucle en la galería
   });
 
   /**
