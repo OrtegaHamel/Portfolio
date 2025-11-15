@@ -5,12 +5,27 @@
 
 ## Descripción
 
-Este portafolio es un sitio web de presentación profesional que comunica de manera efectiva la transición de una sólida carrera en producción audiovisual (20 años de experiencia) hacia el campo del Desarrollo FullStack (Python/Django y JavaScript).
+Este portafolio está construido en **HTML**, **CSS** y **JavaScript puro**, utilizando como base la plantilla profesional **Impact** de BootstrapMade. Desde el inicio definí una estructura limpia y modular: los archivos HTML en la raíz del proyecto, los estilos en `assets/css`, los scripts en `assets/js` y todas las librerías externas organizadas dentro de `assets/vendor`.
 
-El sitio presenta una estructura modular y navegable, empleando un diseño adaptable (responsive) que facilita la visualización en cualquier dispositivo. Tras varias iteraciones de mejora, el producto final se caracteriza por ser una plataforma de evidencia técnica donde, además de mostrar los resultados, se detalla el proceso y la arquitectura de las soluciones desarrolladas. El enfoque actual garantiza no solo la estética, sino también una experiencia de usuario fluida y profesional.
+Para dar forma a la interfaz e interacción del sitio, integré diversas tecnologías: **Bootstrap 5** para la estructura visual, **AOS** para animaciones al hacer scroll, **Swiper** para sliders, **Glightbox** para la galería del portafolio, **PureCounter** para animaciones numéricas y **Bootstrap Icons** para la iconografía.  
 
-🔗 **Sitio en línea:** [https://ortegahamel.github.io/Portfolio/](https://ortegahamel.github.io/Portfolio/)  
-💻 **Repositorio GitHub:** [https://github.com/OrtegaHamel/Portfolio](https://github.com/OrtegaHamel/Portfolio)
+El archivo principal, **index.html**, contiene todas las secciones del sitio: *Hero*, *Sobre mí*, *Servicios*, *Portafolio* y *Contacto*. El archivo **main.css** concentra las reglas visuales, incluyendo tipografías, colores, layouts en Flex y Grid, además de ajustes personalizados para el template. En **main.js** se inicializan las librerías mencionadas: animaciones, sliders, el lightbox del portafolio y la lógica del menú móvil.
+
+La **sección Hero** funciona como carta de presentación, con una imagen de fondo personalizada y un efecto de texto tipeado que destaca mis principales áreas de especialización, creando una primera impresión dinámica y moderna. En la sección de **Experiencia**, presento mi trayectoria audiovisual y mi transición hacia el desarrollo, integrando ambas áreas.
+
+En la sección de **Habilidades**, utilizo barras de progreso animadas para representar distintos niveles tecnológicos. Para personalizarlas visualmente, asigné colores mediante clases de Bootstrap como `bg-danger`, `bg-primary` o `bg-success`, lo que añade identidad y facilita la lectura.
+
+La **galería del portafolio** incluye tarjetas interactivas que muestran mis proyectos y permiten explorarlos mediante un visor tipo lightbox gracias a **Glightbox**. Además, incorpora **filtros dinámicos que funcionan como pestañas**, permitiendo separar los proyectos desarrollados en **Python** o **JavaScript**. Las imágenes se reorganizan dependiendo de la categoría seleccionada. Esta fue la sección con mayor grado de personalización, especialmente en la forma de organizar la información de cada proyecto.
+
+Por último, la **sección de Contacto** utiliza los protocolos `tel:` y `mailto:` para permitir llamadas directas desde móviles y para abrir el cliente de correo predeterminado del usuario.
+
+Este proyecto me permitió trabajar con una arquitectura ordenada, integrar múltiples librerías JavaScript y adaptar un template profesional a las necesidades reales de un portafolio técnico. Refleja mi transición desde una sólida trayectoria en producción audiovisual —más de 20 años de experiencia— hacia el desarrollo FullStack en **Python/Django** y **JavaScript**.
+
+---
+
+🔗 **Sitio en línea:** https://ortegahamel.github.io/Portfolio/  
+💻 **Repositorio GitHub:** https://github.com/OrtegaHamel/Portfolio
+
 
 ---
 
