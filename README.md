@@ -52,11 +52,35 @@ Durante más de 20 años trabajé en el ámbito audiovisual, lo que me permitió
 
 ## 🧰 Tecnologías Utilizadas
 
-- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, jQuery  
-- **Backend:** Python, Django, Node.js, Express  
-- **Base de Datos:** PostgreSQL, MySQL  
-- **Herramientas:** Git, GitHub, Visual Studio Code  
-- **Despliegue:** GitHub Pages, Render
+### 🖥️ Frontend (Portafolio)
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla JS)**
+- **Bootstrap 5**
+- **AOS (Animate On Scroll)**
+- **Swiper.js**
+- **Glightbox**
+- **PureCounter**
+- **Bootstrap Icons**
+
+### 🧪 Backend (Formación)
+> *El portafolio actual no utiliza backend, pero estas son tecnologías que manejo en mi proceso como desarrollador FullStack:*
+- **Python / Django**
+- **Node.js / Express**
+
+### 🗄️ Bases de Datos (Formación)
+- **PostgreSQL**
+- **MySQL**  
+- **SQLite**
+
+### 🔧 Herramientas
+- **Git & GitHub**
+- **Visual Studio Code**
+
+
+### 🚀 Despliegue
+- **GitHub Pages** (portafolio)
+- **Render** (para proyectos backend)
 
 ---
 
