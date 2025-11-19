@@ -28,6 +28,13 @@ Este proyecto me permitió trabajar con una arquitectura ordenada, integrar múl
 
 
 ---
+## Video técnico
+
+Video técnico donde se describe el proyecto y su funcionamiento
+
+https://youtu.be/LziKzfTRvis
+
+---
 
 ## 👤 Sobre mí
 
