@@ -1,7 +1,8 @@
 
 # Portafolio Personal
+Álvaro Ortega Hamel
 
-![Screenshot_1](assets/img/screen/header1.png)
+---
 
 ## Descripción
 
