@@ -49,6 +49,9 @@ Durante más de 20 años trabajé en el ámbito audiovisual, lo que me permitió
 
 - [**API Star Wars**](https://github.com/OrtegaHamel/M04Consolidacion)  
   página web interactiva desarrollada con HTML, CSS y JavaScript, que muestra información de personajes del universo Star Wars utilizando datos obtenidos desde la API pública SWAPI.
+  
+- [**Aplicación web para administrar música en vivo**](https://github.com/OrtegaHamel/M8_Producto_Final.git)  
+  Aplicación con backend Django que permite administrar música en vivo de forma eficiente mediante la creación, visualización, actualización y eliminación de eventos según los permisos del usuario. Además, ofrece un home público diseñado para mostrar la cartelera de manera atractiva.
 
 - [**Aplicación web con Django**](https://github.com/OrtegaHamel/Portafolio_Modulo6.git)  
   Aplicación diseñada para gestionar productos y usuarios. Incluye funcionalidades como autenticación, autorización, gestión de productos, y un panel de administración personalizado para gestionar usuarios y permisos.
