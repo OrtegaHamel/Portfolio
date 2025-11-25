@@ -1,7 +1,7 @@
 
 # Portafolio Personal
 
-![Screenshot_1](./assets/img/screen/header1.png)
+![Screenshot_1](assets/img/screen/header1.png)
 
 ## Descripción
 
