@@ -1207,6 +1207,31 @@ section,
   color: color-mix(in srgb, var(--default-color), transparent 30%);
 }
 
+/* === REINICIO COMPLETO SOLO PARA ÍCONOS DEL PORTAFOLIO === */
+
+.portfolio-item .portfolio-info a,
+.portfolio-item .portfolio-info a i {
+  all: unset;                   /* Quita TODAS las reglas heredadas */
+  display: inline-flex !important;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.portfolio-item .portfolio-info .icon-group {
+  display: flex !important;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+/* Restablecer apariencia del ícono */
+.portfolio-item .portfolio-info a i {
+  font-family: "bootstrap-icons" !important;
+  font-size: 22px;
+}
+
 /*--------------------------------------------------------------
 # Service Details Section
 --------------------------------------------------------------*/
@@ -1275,6 +1300,6 @@ section,
 /*--------------------------------------------------------------
 # Starter Section Section
 --------------------------------------------------------------*/
-.starter-section {
-  /* Add your styles here */
-}
+/*.starter-section {
+  /* Add your styles here 
+}*/
